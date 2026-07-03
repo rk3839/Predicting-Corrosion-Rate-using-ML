@@ -2,7 +2,7 @@
 Machine Learning Approach to Investigate High Temperature Corrosion of Critical Infrastructure Materials
 
 ## 📃 Project Synapsis
-This Research work is about predicting the corrosion rate using regression model.<br\>
+This Research work is about predicting the corrosion rate using regression model.<br/>
 It helps to predict the corrosion based on the available input parameters.
 
 ### 📜 Article title 
